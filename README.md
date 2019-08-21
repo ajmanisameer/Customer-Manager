@@ -11,7 +11,7 @@ As of now the project works adding a new Customer with a form and storing in the
 ## Completed Back-end Register/Login Part
 A complete Register/Login API has been set, tested through POSTMAN. [ It need to be connected with the front-end ]
 
-## Any new contributions are welcome with a addded new branch.
+## Any new contributions are welcome with a new branch.
 
 
 ## Development server
