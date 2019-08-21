@@ -1,6 +1,18 @@
-# CustomerManager
+## CustomerManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+Customer-Manager is a platform for keeping records of the customer and his orders. This project is made using MEAN Stack.
+Angular-7(TypeScript/JavaScript) for the User-Interface, MongoDB to store the users details with mongoose as a middleware. 
+Created a Secure REST API in NODEjs using HTTP protocol and Express.js helping to manage everything, from routes, to handling requests and views.
+
+## Achieved till now
+As of now the project works adding a new Customer with a form and storing in the database, viewing the Customer as Card-view as well as a List-view. Editing User API has also set on the Card-view using a HTML Model.
+
+## Completed Back-end Register/Login Part
+A complete Register/Login API has been set, tested through POSTMAN. [ It need to be connected with the front-end ]
+
+## Any new contributions are welcome with a addded new branch.
+
 
 ## Development server
 
